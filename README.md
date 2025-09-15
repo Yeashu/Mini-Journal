@@ -1,0 +1,1 @@
+Mini Journal backend for MERN class
